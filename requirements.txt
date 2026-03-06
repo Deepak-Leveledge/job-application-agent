@@ -1,0 +1,9 @@
+langgraph
+langchain
+langchain-google-genai
+pinecone-client
+pypdf2
+streamlit
+python-dotenv
+langsmith
+tavily-python
